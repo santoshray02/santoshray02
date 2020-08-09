@@ -1,12 +1,17 @@
 ### Hi there, I'm Santosh 👋
+---
 
 <!--
 **santoshray02/santoshray02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🏢 I'm currently working full-time at ***Deep Cognition,Inc. Dallas ***
-- 🔭 I’m currently working on Deep Learning Studio
+### I'm a Software Engineer based in Bangalore.
+
+  - 🏢 I'm currently working full-time at ***Deep Cognition,Inc. Dallas ***
+  - 🔭 I’m currently working on Deep Learning Studio
+---
+
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
