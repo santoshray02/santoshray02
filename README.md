@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 ### I'm a Software Engineer based in Bangalore.
 
-  - 🏢 I'm currently working full-time at ***Deep Cognition,Inc. Dallas ***
+  - 🏢 I'm currently working full-time at ***Deep Cognition,Inc. Dallas***
   - 🔭 I’m currently working on Deep Learning Studio
 ---
 
