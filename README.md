@@ -1,23 +1,31 @@
-### Hi there, I'm Santosh 👋
----
+# 💻 Santosh Kumar
+🚀 Engineering Manager | AI & Automation Innovator | Entrepreneur
 
-<!--
-**santoshray02/santoshray02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Santosh Kumar, an Engineering Manager with a strong background in AI, Computer Vision, and RPA. I have a passion for building scalable AI-driven solutions that optimize business processes and enhance efficiency.
 
-Here are some ideas to get you started:
--->
-### I'm a Software Engineer based in Bangalore.
+## 🔹 About Me
 
-  - 🏢 I'm currently working full-time at ***Deep Cognition,Inc. Dallas***
-  - 🔭 I’m currently working on Deep Learning Studio
----
+### 🎯 Engineering Manager & Director at Deep Cognition
+- Leading AI and automation projects, including Deep Learning Studio & PaperEntry
+- Specializing in data entry automation, RPA, and LLM-based solutions
 
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🏢 Entrepreneur & Community Advocate
+- Founder of KDS Knowledge Center – transforming education in my native village
 
+## 👨‍💻 Tech Stack & Expertise
+- **Languages:** Python, JavaScript
+- **AI & ML:** Computer Vision, NLP, Large Language Models (LLMs)
+- **Automation:** Selenium, UI Vision, RPA tools
+- **Cloud & DevOps:** AWS, Docker
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git, GitHub
+
+## 🌟 What I Do
+- ✅ AI-Powered Automation: Developing AI-driven document processing and workflow automation
+- ✅ Technical Leadership: Mentoring engineers & leading teams for scalable AI solutions
+- ✅ Open Source & Learning: Contributing to AI & automation projects and mentoring developers
+
+## 📫 Connect with Me
+- **GitHub:** [github.com/santoshray02](https://github.com/santoshray02)
+- **LinkedIn:** [linkedin.com/in/santoshray02](https://linkedin.com/in/santoshray02)
 -->
