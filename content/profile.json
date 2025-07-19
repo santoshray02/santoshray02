@@ -1,0 +1,151 @@
+{
+  "name": "Santosh Kumar",
+  "title": "VP of Technology | AI & Automation Innovator | Entrepreneur",
+  "tagline": "🚀 VP of Technology | AI & Automation Innovator | Entrepreneur",
+  "introduction": "👋 Hi, I'm Santosh Kumar, VP of Technology at Deep Cognition with a strong background in AI, Computer Vision, and RPA. I have a passion for building scalable AI-driven solutions that optimize business processes and enhance efficiency.",
+  "about": {
+    "currentRole": {
+      "title": "🎯 VP of Technology at Deep Cognition",
+      "points": [
+        "Leading AI and automation projects, including Deep Learning Studio & PaperEntry",
+        "Specializing in data entry automation, RPA, and LLM-based solutions"
+      ]
+    },
+    "entrepreneurship": {
+      "title": "🏢 Entrepreneur & Community Advocate",
+      "points": [
+        "Founder of KDS Knowledge Center – transforming education in my native village"
+      ]
+    }
+  },
+  "expertise": {
+    "aiAgentsLLM": {
+      "title": "🤖 AI Agents & LLM Expertise",
+      "sections": {
+        "llms": {
+          "title": "🧠 Large Language Models (LLMs)",
+          "items": [
+            {
+              "label": "Advanced LLM Integration",
+              "description": "GPT-4, Claude, Llama, and other state-of-the-art models"
+            },
+            {
+              "label": "RAG Systems",
+              "description": "Building Retrieval-Augmented Generation pipelines for enhanced AI responses"
+            },
+            {
+              "label": "Prompt Engineering",
+              "description": "Designing sophisticated prompts for optimal model performance"
+            },
+            {
+              "label": "Fine-tuning & Optimization",
+              "description": "Custom model training for domain-specific applications"
+            }
+          ]
+        },
+        "agents": {
+          "title": "🤝 AI Agent Development",
+          "items": [
+            {
+              "label": "Multi-Agent Systems",
+              "description": "Architecting collaborative AI agent frameworks"
+            },
+            {
+              "label": "Autonomous Agents",
+              "description": "Building self-directed agents with tool-using capabilities"
+            },
+            {
+              "label": "Agent Orchestration",
+              "description": "Managing complex workflows and inter-agent communication"
+            },
+            {
+              "label": "Memory Systems",
+              "description": "Implementing persistent memory for conversational AI"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "techStack": {
+    "title": "👨‍💻 Tech Stack & Expertise",
+    "categories": [
+      {
+        "name": "Languages",
+        "items": ["Python", "JavaScript", "TypeScript"]
+      },
+      {
+        "name": "AI Frameworks",
+        "items": ["LangChain", "LlamaIndex", "AutoGen", "Transformers"]
+      },
+      {
+        "name": "LLM APIs",
+        "items": ["OpenAI", "Anthropic Claude", "Hugging Face"]
+      },
+      {
+        "name": "Vector Databases",
+        "items": ["Pinecone", "Weaviate", "ChromaDB"]
+      },
+      {
+        "name": "AI & ML",
+        "items": ["Computer Vision", "NLP", "Large Language Models (LLMs)"]
+      },
+      {
+        "name": "Automation",
+        "items": ["Selenium", "UI Vision", "RPA tools", "AI-powered workflow automation"]
+      },
+      {
+        "name": "Cloud & DevOps",
+        "items": ["AWS", "Docker", "MLOps"]
+      },
+      {
+        "name": "Databases",
+        "items": ["MySQL", "PostgreSQL", "Vector stores"]
+      },
+      {
+        "name": "Version Control",
+        "items": ["Git", "GitHub"]
+      }
+    ]
+  },
+  "whatIDo": {
+    "title": "🌟 What I Do",
+    "items": [
+      {
+        "label": "AI Agent Development",
+        "description": "Building intelligent autonomous agents that leverage LLMs for complex task automation"
+      },
+      {
+        "label": "LLM-Powered Solutions",
+        "description": "Creating RAG systems, conversational AI, and domain-specific AI applications"
+      },
+      {
+        "label": "AI-Powered Automation",
+        "description": "Developing AI-driven document processing and workflow automation"
+      },
+      {
+        "label": "Technical Leadership",
+        "description": "Mentoring engineers & leading teams for scalable AI solutions"
+      },
+      {
+        "label": "Open Source & Learning",
+        "description": "Contributing to AI & automation projects and mentoring developers"
+      }
+    ]
+  },
+  "contact": {
+    "title": "📫 Connect with Me",
+    "links": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/santoshray02",
+        "username": "santoshray02"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/santoshray02",
+        "username": "santoshray02"
+      }
+    ]
+  }
+}

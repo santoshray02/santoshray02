@@ -1,0 +1,20 @@
+{
+  "name": "santoshray-profile",
+  "version": "1.0.0",
+  "description": "Unified profile for GitHub and personal website",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "build:readme": "node scripts/build.js --readme",
+    "build:web": "node scripts/build.js --web",
+    "build:minimal": "node scripts/build.js --web --minimal",
+    "build:professional": "node scripts/build.js --web --professional",
+    "build:executive": "node scripts/build-executive.js",
+    "deploy": "npm run build && firebase deploy",
+    "deploy:all": "npm run build && git add . && git commit -m 'Update profile' && git push && firebase deploy",
+    "preview": "npm run build:professional && open public/index.html",
+    "preview:minimal": "npm run build:minimal && open public/index.html"
+  },
+  "devDependencies": {
+    "marked": "^5.0.0"
+  }
+}

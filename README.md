@@ -45,6 +45,6 @@
 - ✅ **Open Source & Learning:** Contributing to AI & automation projects and mentoring developers
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/santoshray02](https://github.com/santoshray02)
-- **LinkedIn:** [linkedin.com/in/santoshray02](https://linkedin.com/in/santoshray02)
+- **GitHub:** [https://github.com/santoshray02](https://github.com/santoshray02)
+- **LinkedIn:** [https://linkedin.com/in/santoshray02](https://linkedin.com/in/santoshray02)
 -->

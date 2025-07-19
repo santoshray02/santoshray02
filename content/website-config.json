@@ -1,0 +1,32 @@
+{
+  "versions": {
+    "minimal": {
+      "name": "Santosh Ray",
+      "title": "Software Engineer, AI Enthusiast",
+      "location": "Bangalore, India",
+      "age": "26",
+      "residence": "India",
+      "address": "Whitefield, Bangalore",
+      "email": "santoshray02@gmail.com",
+      "company": "Deep Cognition",
+      "about": "Hi, I'm Santosh. I'm a Software Engineer working with Deep Cognition. I've done my undergrad in Computer Science from JUET. I love building intelligent products and my ultimate goal is to apply the AI research into business to improve human life.",
+      "social": {
+        "linkedin": "https://linkedin.com/in/santoshray02",
+        "stackoverflow": "https://stackoverflow.com/users/your-id",
+        "github": "https://github.com/santoshray02",
+        "scholar": "https://scholar.google.com/citations?user=your-id"
+      }
+    },
+    "professional": {
+      "useProfileJson": true
+    }
+  },
+  "defaultVersion": "professional",
+  "analytics": {
+    "googleAnalytics": "UA-YOUR-ID"
+  },
+  "assets": {
+    "profilePhoto": "https://santoshray.in/images/photo.png",
+    "profilePhotoAlt": "Santosh Kumar - VP of Technology"
+  }
+}
