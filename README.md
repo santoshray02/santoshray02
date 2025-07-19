@@ -1,11 +1,11 @@
 # 💻 Santosh Kumar
-🚀 Engineering Manager | AI & Automation Innovator | Entrepreneur
+🚀 VP of Technology | AI & Automation Innovator | Entrepreneur
 
-👋 Hi, I'm Santosh Kumar, an Engineering Manager with a strong background in AI, Computer Vision, and RPA. I have a passion for building scalable AI-driven solutions that optimize business processes and enhance efficiency.
+👋 Hi, I'm Santosh Kumar, VP of Technology at Deep Cognition with a strong background in AI, Computer Vision, and RPA. I have a passion for building scalable AI-driven solutions that optimize business processes and enhance efficiency.
 
 ## 🔹 About Me
 
-### 🎯 Engineering Manager & Director at Deep Cognition
+### 🎯 VP of Technology at Deep Cognition
 - Leading AI and automation projects, including Deep Learning Studio & PaperEntry
 - Specializing in data entry automation, RPA, and LLM-based solutions
 
