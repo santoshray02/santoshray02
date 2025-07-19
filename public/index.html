@@ -13,17 +13,18 @@
         }
         
         :root {
-            --primary: #0a1f1b;
-            --secondary: #0f2922;
-            --accent: #1a5e4a;
-            --highlight: #2d8659;
+            --primary: #0f1419;
+            --secondary: #1a1f2e;
+            --accent: #2a4d3a;
+            --highlight: #3a5f4d;
             --text-primary: #ffffff;
-            --text-secondary: #a8d5ba;
-            --success: #64ffda;
-            --gradient-start: #1a5e4a;
-            --gradient-end: #2d8659;
-            --emerald: #10b981;
-            --mint: #84fab0;
+            --text-secondary: #b8c5d6;
+            --success: #4ade80;
+            --gradient-start: #1e3a2f;
+            --gradient-end: #2d5a4a;
+            --emerald: #059669;
+            --mint: #6ee7b7;
+            --slate: #334155;
         }
         
         body {
@@ -438,40 +439,6 @@
             z-index: 1;
         }
         
-        /* Achievements */
-        .achievements {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 2rem;
-            margin-top: 3rem;
-        }
-        
-        .achievement-card {
-            text-align: center;
-            padding: 2rem;
-            background: rgba(15, 41, 34, 0.3);
-            border-radius: 10px;
-            transition: all 0.3s ease;
-        }
-        
-        .achievement-card:hover {
-            transform: scale(1.05);
-            background: rgba(45, 134, 89, 0.2);
-        }
-        
-        .achievement-number {
-            font-size: 3rem;
-            font-weight: 700;
-            background: linear-gradient(135deg, var(--emerald), var(--mint));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-        
-        .achievement-label {
-            color: var(--text-secondary);
-            margin-top: 0.5rem;
-        }
-        
         /* Contact Section */
         .contact-section {
             background: rgba(15, 41, 34, 0.5);
@@ -575,10 +542,11 @@
         <div class="hero-content">
             <div class="hero-text">
                 <h1>Hi, I'm <span class="highlight">Santosh Kumar</span></h1>
-                <p class="hero-subtitle">VP of Technology at Deep Cognition</p>
+                <p class="hero-subtitle">VP of Technology | Agentic AI Architect</p>
                 <p class="hero-description">
-                    Leading the charge in AI innovation, I architect cutting-edge solutions that transform 
-                    business processes through intelligent automation and advanced machine learning.
+                    Pioneering the future of autonomous AI systems, I specialize in building sophisticated 
+                    multi-agent architectures and intelligent workflow automation that revolutionize how 
+                    businesses operate at scale.
                 </p>
                 <div class="cta-buttons">
                     <a href="#contact" class="btn btn-primary">
@@ -591,65 +559,91 @@
                 </div>
             </div>
             <div class="hero-image">
-                <img src="https://santoshray.in/images/photo.png" alt="Santosh Kumar" class="profile-photo" />
+                <img src="images/photo.png" alt="Santosh Kumar" class="profile-photo" />
             </div>
         </div>
     </section>
     
     <section id="expertise" class="fade-in">
-        <h2 class="section-title">Core Expertise</h2>
-        <p class="section-subtitle">Driving innovation at the intersection of AI and business</p>
+        <h2 class="section-title">Agentic AI & Automation Expertise</h2>
+        <p class="section-subtitle">Building autonomous systems that think, learn, and act</p>
         
         <div class="expertise-grid">
             
+                <div class="expertise-card">
+                    <div class="expertise-icon">🤖</div>
+                    <h3 class="expertise-title">Advanced LLM Integration</h3>
+                    <p>GPT-4, Claude, Llama, and other state-of-the-art models</p>
+                </div>
+                
+                <div class="expertise-card">
+                    <div class="expertise-icon">🧠</div>
+                    <h3 class="expertise-title">RAG Systems</h3>
+                    <p>Building Retrieval-Augmented Generation pipelines for enhanced AI responses</p>
+                </div>
+                
+                <div class="expertise-card">
+                    <div class="expertise-icon">💡</div>
+                    <h3 class="expertise-title">Prompt Engineering</h3>
+                    <p>Designing sophisticated prompts for optimal model performance</p>
+                </div>
+                
+                <div class="expertise-card">
+                    <div class="expertise-icon">⚡</div>
+                    <h3 class="expertise-title">Fine-tuning & Optimization</h3>
+                    <p>Custom model training for domain-specific applications</p>
+                </div>
+                
+                <div class="expertise-card">
+                    <div class="expertise-icon">🔄</div>
+                    <h3 class="expertise-title">Multi-Agent Systems</h3>
+                    <p>Architecting collaborative AI agent frameworks</p>
+                </div>
+                
+                <div class="expertise-card">
+                    <div class="expertise-icon">🎯</div>
+                    <h3 class="expertise-title">Autonomous Agents</h3>
+                    <p>Building self-directed agents with tool-using capabilities</p>
+                </div>
+                
+                <div class="expertise-card">
+                    <div class="expertise-icon">📊</div>
+                    <h3 class="expertise-title">Agent Orchestration</h3>
+                    <p>Managing complex workflows and inter-agent communication</p>
+                </div>
+                
+                <div class="expertise-card">
+                    <div class="expertise-icon">🔧</div>
+                    <h3 class="expertise-title">Memory Systems</h3>
+                    <p>Implementing persistent memory for conversational AI</p>
+                </div>
+                
+        </div>
+        
+        <h3 style="margin-top: 4rem; margin-bottom: 2rem; text-align: center; color: var(--success);">
+            Workflow Automation Excellence
+        </h3>
+        <div class="expertise-grid">
             <div class="expertise-card">
-                <div class="expertise-icon">🚀</div>
-                <h3 class="expertise-title">Advanced LLM Integration</h3>
-                <p>GPT-4, Claude, Llama, and other state-of-the-art models</p>
+                <div class="expertise-icon">⚙️</div>
+                <h3 class="expertise-title">Process Orchestration</h3>
+                <p>Designing complex workflows that seamlessly integrate AI agents with business processes</p>
             </div>
-            
             <div class="expertise-card">
-                <div class="expertise-icon">🚀</div>
-                <h3 class="expertise-title">RAG Systems</h3>
-                <p>Building Retrieval-Augmented Generation pipelines for enhanced AI responses</p>
+                <div class="expertise-icon">🔗</div>
+                <h3 class="expertise-title">Tool Integration</h3>
+                <p>Connecting disparate systems through intelligent APIs and custom automation frameworks</p>
             </div>
-            
             <div class="expertise-card">
-                <div class="expertise-icon">🚀</div>
-                <h3 class="expertise-title">Prompt Engineering</h3>
-                <p>Designing sophisticated prompts for optimal model performance</p>
+                <div class="expertise-icon">📈</div>
+                <h3 class="expertise-title">Scalable Automation</h3>
+                <p>Building enterprise-grade automation solutions that handle millions of operations daily</p>
             </div>
-            
             <div class="expertise-card">
-                <div class="expertise-icon">🚀</div>
-                <h3 class="expertise-title">Fine-tuning & Optimization</h3>
-                <p>Custom model training for domain-specific applications</p>
+                <div class="expertise-icon">🎛️</div>
+                <h3 class="expertise-title">Decision Intelligence</h3>
+                <p>Implementing AI-driven decision engines that adapt and optimize in real-time</p>
             </div>
-            
-            <div class="expertise-card">
-                <div class="expertise-icon">🚀</div>
-                <h3 class="expertise-title">Multi-Agent Systems</h3>
-                <p>Architecting collaborative AI agent frameworks</p>
-            </div>
-            
-            <div class="expertise-card">
-                <div class="expertise-icon">🚀</div>
-                <h3 class="expertise-title">Autonomous Agents</h3>
-                <p>Building self-directed agents with tool-using capabilities</p>
-            </div>
-            
-            <div class="expertise-card">
-                <div class="expertise-icon">🚀</div>
-                <h3 class="expertise-title">Agent Orchestration</h3>
-                <p>Managing complex workflows and inter-agent communication</p>
-            </div>
-            
-            <div class="expertise-card">
-                <div class="expertise-icon">🚀</div>
-                <h3 class="expertise-title">Memory Systems</h3>
-                <p>Implementing persistent memory for conversational AI</p>
-            </div>
-            
         </div>
     </section>
     
@@ -731,30 +725,10 @@
         
         <div class="leadership-philosophy">
             <p class="philosophy-text">
-                "True innovation happens when we empower teams to think beyond conventional boundaries. 
-                As a technology leader, my role is to create an environment where brilliant minds can 
-                experiment, fail fast, learn faster, and ultimately deliver solutions that redefine 
-                what's possible in AI and automation."
+                "The future belongs to autonomous systems that augment human intelligence. 
+                My focus is on building agentic AI architectures that not only automate tasks 
+                but create intelligent workflows that learn, adapt, and evolve with your business needs."
             </p>
-        </div>
-        
-        <div class="achievements">
-            <div class="achievement-card">
-                <div class="achievement-number">50+</div>
-                <div class="achievement-label">AI Projects Delivered</div>
-            </div>
-            <div class="achievement-card">
-                <div class="achievement-number">100M+</div>
-                <div class="achievement-label">Documents Processed</div>
-            </div>
-            <div class="achievement-card">
-                <div class="achievement-number">15+</div>
-                <div class="achievement-label">Team Members Mentored</div>
-            </div>
-            <div class="achievement-card">
-                <div class="achievement-number">10x</div>
-                <div class="achievement-label">Efficiency Improvements</div>
-            </div>
         </div>
     </section>
     
@@ -781,6 +755,10 @@
                 <a href="mailto:santoshray02@gmail.com" class="contact-link">
                     <span>📧</span>
                     <span>Email</span>
+                </a>
+                <a href="https://stackoverflow.com/users/6291749/santosh-ray" class="contact-link" target="_blank">
+                    <span>📚</span>
+                    <span>Stack Overflow</span>
                 </a>
             </div>
         </div>
