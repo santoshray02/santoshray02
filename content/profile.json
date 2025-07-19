@@ -1,14 +1,15 @@
 {
   "name": "Santosh Kumar",
-  "title": "VP of Technology | AI & Automation Innovator | Entrepreneur",
-  "tagline": "🚀 VP of Technology | AI & Automation Innovator | Entrepreneur",
-  "introduction": "👋 Hi, I'm Santosh Kumar, VP of Technology at Deep Cognition with a strong background in AI, Computer Vision, and RPA. I have a passion for building scalable AI-driven solutions that optimize business processes and enhance efficiency.",
+  "title": "VP of Technology | Agentic AI Architect | Workflow Automation Expert",
+  "tagline": "🚀 VP of Technology | Agentic AI Architect | Workflow Automation Expert",
+  "introduction": "👋 Hi, I'm Santosh Kumar, VP of Technology at Deep Cognition specializing in Agentic AI and intelligent workflow automation. I architect autonomous AI systems and multi-agent frameworks that revolutionize how businesses operate at scale.",
   "about": {
     "currentRole": {
       "title": "🎯 VP of Technology at Deep Cognition",
       "points": [
-        "Leading AI and automation projects, including Deep Learning Studio & PaperEntry",
-        "Specializing in data entry automation, RPA, and LLM-based solutions"
+        "Leading development of autonomous AI agents and intelligent automation systems",
+        "Architecting multi-agent frameworks that handle millions of automated workflows",
+        "Pioneering next-generation RPA solutions powered by Agentic AI"
       ]
     },
     "entrepreneurship": {
@@ -20,7 +21,7 @@
   },
   "expertise": {
     "aiAgentsLLM": {
-      "title": "🤖 AI Agents & LLM Expertise",
+      "title": "🤖 Agentic AI & Workflow Automation Expertise",
       "sections": {
         "llms": {
           "title": "🧠 Large Language Models (LLMs)",
@@ -112,24 +113,24 @@
     "title": "🌟 What I Do",
     "items": [
       {
-        "label": "AI Agent Development",
-        "description": "Building intelligent autonomous agents that leverage LLMs for complex task automation"
+        "label": "Agentic AI Development",
+        "description": "Building autonomous AI agents that think, learn, and act independently"
       },
       {
-        "label": "LLM-Powered Solutions",
-        "description": "Creating RAG systems, conversational AI, and domain-specific AI applications"
+        "label": "Workflow Automation Architecture",
+        "description": "Designing intelligent workflows that seamlessly integrate AI agents with business processes"
       },
       {
-        "label": "AI-Powered Automation",
-        "description": "Developing AI-driven document processing and workflow automation"
+        "label": "Multi-Agent Systems",
+        "description": "Creating collaborative AI ecosystems where agents work together to solve complex problems"
+      },
+      {
+        "label": "Process Intelligence",
+        "description": "Implementing AI-driven decision engines that optimize operations in real-time"
       },
       {
         "label": "Technical Leadership",
-        "description": "Mentoring engineers & leading teams for scalable AI solutions"
-      },
-      {
-        "label": "Open Source & Learning",
-        "description": "Contributing to AI & automation projects and mentoring developers"
+        "description": "Leading teams in building next-generation automation solutions"
       }
     ]
   },
