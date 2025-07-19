@@ -44,6 +44,7 @@
 - ✅ **Multi-Agent Systems:** Creating collaborative AI ecosystems where agents work together to solve complex problems
 - ✅ **Process Intelligence:** Implementing AI-driven decision engines that optimize operations in real-time
 - ✅ **Technical Leadership:** Leading teams in building next-generation automation solutions
+- ✅ **Open Source & Community:** Contributing to AI & automation projects and mentoring developers
 
 ## 📫 Connect with Me
 - **GitHub:** [https://github.com/santoshray02](https://github.com/santoshray02)
